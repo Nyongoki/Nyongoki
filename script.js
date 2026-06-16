@@ -115,9 +115,9 @@ function initTypewriter() {
     
     const words = [
         'Full Stack Developer',
-        'Django Architect',
+        'Django & Next.js Architect',
         'Machine Learning Explorer',
-        'Flutter Enthusiast'
+        'IoT Solutions Builder'
     ];
     
     let wordIndex = 0;
@@ -386,7 +386,7 @@ function initGitPipeline() {
         await sleep(800);
         await printConsole('Job [Build & Pack] started.', 'info');
         await sleep(500);
-        await printConsole('>> Compiling stylesheets and scripts... OK\n>> Optimization complete.', 'success');
+        await printConsole('>> Running: next build\n>> Creating optimized production build...\n>> Compiled successfully. Ready for deployment.', 'success');
         setNodeState(nodes.cicd, 'success', 'State: Tests OK');
         
         // Animate Pulse from CI/CD to Deploy
@@ -500,11 +500,11 @@ const fallbackStats = {
     stars: 8,
     followers: 12,
     languages: {
-        'Python': 40,
-        'JavaScript': 28,
-        'HTML': 14,
-        'CSS': 10,
-        'Dart': 8
+        'Python': 35,
+        'JavaScript': 25,
+        'Next.js (React)': 18,
+        'HTML/CSS': 12,
+        'Dart (Flutter)': 10
     },
     activity: [12, 28, 45, 52, 68, 40]
 };

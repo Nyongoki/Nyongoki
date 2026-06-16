@@ -9,11 +9,11 @@
 ---
 
 ### 💻 About Me
-I'm a **Computer Science Student** at **Kisii University** and an aspiring **Full Stack Developer & AI/ML Explorer**. I specialize in building responsive, efficient, and intelligent applications using modern web and mobile frameworks.
+I'm a **Computer Scientist & Software Developer** with academic roots at **Kisii University**, specializing in building responsive, efficient, and intelligent software-hardware integrations using Django, JavaScript (Next.js), Flutter, and Machine Learning.
 
-- 🔭 **Currently focusing on**: Python's Django framework for scalable backend architectures and RESTful APIs.
+- 🔭 **Currently focusing on**: Python's Django framework for scalable backends and JavaScript frameworks like Next.js for high-performance frontends.
 - 📱 **Mobile Development**: Crafting native cross-platform experiences using Flutter and Dart.
-- 🤖 **Interests**: Machine Learning, Deep Learning, and integrating intelligent AI components into web platforms.
+- 🤖 **Interests**: Machine Learning, Artificial Intelligence, and Internet of Things (IoT) to develop smart, connected physical-digital technologies.
 - ☕ **Driven by**: Curiosity, continuous learning, and coffee!
 
 ---
@@ -28,6 +28,8 @@ I'm a **Computer Science Student** at **Kisii University** and an aspiring **Ful
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   
   <!-- Frameworks & DBs -->
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/bootstrap-%238511F2.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
