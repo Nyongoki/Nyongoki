@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there! I'm Timothy Nyongoki 👋 
 
-<!--
-**Nyongoki/Nyongoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://nyongoki.github.io/Nyongoki/"><img src="https://img.shields.io/badge/Live_Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio"></a>
+  <a href="https://wa.me/254705280974"><img src="https://img.shields.io/badge/WhatsApp-Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://www.linkedin.com/in/timothy-nyongoki-5aa949307"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+I'm a **Computer Science Student** at **Kisii University** and an aspiring **Full Stack Developer & AI/ML Explorer**. I specialize in building responsive, efficient, and intelligent applications using modern web and mobile frameworks.
+
+- 🔭 **Currently focusing on**: Python's Django framework for scalable backend architectures and RESTful APIs.
+- 📱 **Mobile Development**: Crafting native cross-platform experiences using Flutter and Dart.
+- 🤖 **Interests**: Machine Learning, Deep Learning, and integrating intelligent AI components into web platforms.
+- ☕ **Driven by**: Curiosity, continuous learning, and coffee!
+
+---
+
+### 🛠️ Technical Stack & Tools
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  
+  <!-- Frameworks & DBs -->
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/bootstrap-%238511F2.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+---
+
+### 📊 GitHub & Commit Metrics (Real-Time Stats)
+Here are my automatically updated GitHub performance widgets showing contribution streak, language breakdowns, and commit activity.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nyongoki&show_icons=true&theme=tokyonight&count_private=true" alt="Timothy's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyongoki&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyongoki&theme=tokyonight" alt="GitHub Streak" width="98%" />
+</p>
+
+---
+
+### 📫 Contact & Collaboration
+* 📞 **Phone & WhatsApp**: [+254 705 280 974](https://wa.me/254705280974)
+* 📍 **Location**: Kenya
+* 🌐 **Portfolio**: [nyongoki.github.io/Nyongoki](https://nyongoki.github.io/Nyongoki/)
+
+*"Innovation is taking two things that already exist and putting them together in a new way."*
