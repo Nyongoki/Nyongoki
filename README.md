@@ -54,11 +54,4 @@ Here are my automatically updated GitHub performance widgets showing contributio
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyongoki&theme=tokyonight" alt="GitHub Streak" width="98%" />
 </p>
 
----
-
-### 📫 Contact & Collaboration
-* 📞 **Phone & WhatsApp**: [+254 705 280 974](https://wa.me/254705280974)
-* 📍 **Location**: Kenya
-* 🌐 **Portfolio**: [nyongoki.github.io/Nyongoki](https://nyongoki.github.io/Nyongoki/)
-
 *"Innovation is taking two things that already exist and putting them together in a new way."*
