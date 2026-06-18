@@ -1,8 +1,7 @@
 # Hi there! I'm Timothy Nyongoki 👋 
 
 <p align="left">
-  <a href="https://nyongoki.github.io/Nyongoki/"><img src="https://img.shields.io/badge/Live_Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio"></a>
-  <a href="https://wa.me/254705280974"><img src="https://img.shields.io/badge/WhatsApp-Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://nexus.raxcore.dev/"><img src="https://img.shields.io/badge/Live_Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio"></a>
   <a href="https://www.linkedin.com/in/timothy-nyongoki-5aa949307"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
