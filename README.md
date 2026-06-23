@@ -53,4 +53,8 @@ Here are my automatically updated GitHub performance widgets showing contributio
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyongoki&theme=tokyonight" alt="GitHub Streak" width="98%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyongoki&theme=tokyonight" alt="Timothy's GitHub Activity Graph" width="98%" />
+</p>
+
 *"Innovation is taking two things that already exist and putting them together in a new way."*
