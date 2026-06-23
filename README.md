@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=070913,6366f1,a855f7&height=200&section=header&text=Timothy%20Nyongoki&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Computer%20Scientist%20%20%7C%20%20Software%20Developer&descAlignY=55&descAlign=50&descSize=18" width="100%" alt="Timothy Nyongoki Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=070913,6366f1,a855f7&height=240&section=header&text=Timothy%20Nyongoki&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Computer%20Scientist%20%20%7C%20%20Software%20Developer&descAlignY=70&descAlign=50&descSize=18" width="100%" alt="Timothy Nyongoki Banner" />
 </p>
 
 <p align="center">
