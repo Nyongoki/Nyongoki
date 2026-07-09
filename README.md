@@ -59,7 +59,7 @@ Here are my automatically updated GitHub performance widgets showing contributio
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyongoki&theme=tokyonight" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=Nyongoki&theme=tokyonight" alt="GitHub Streak" width="98%" />
 </p>
 
 <p align="center">
