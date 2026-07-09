@@ -63,7 +63,7 @@ Here are my automatically updated GitHub performance widgets showing contributio
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nyongoki&theme=tokyonight" alt="Timothy's GitHub Activity" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyongoki&theme=tokyonight" alt="Timothy's GitHub Activity Graph" width="98%" />
 </p>
 
 ---
