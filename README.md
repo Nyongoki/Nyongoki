@@ -54,12 +54,12 @@ I'm a **Computer Scientist & Software Developer** with academic roots at **Kisii
 Here are my automatically updated GitHub performance widgets showing contribution streak, language breakdowns, and commit activity.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nyongoki&show_icons=true&theme=tokyonight&count_private=true" alt="Timothy's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyongoki&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Nyongoki&show_icons=true&theme=tokyonight&count_private=true" alt="Timothy's GitHub stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nyongoki&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nyongoki&theme=tokyonight" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Nyongoki&theme=tokyonight" alt="GitHub Streak" width="98%" />
 </p>
 
 <p align="center">
